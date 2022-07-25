@@ -6,6 +6,7 @@ public class Copy {
 		System.out.println("happy");
 		System.out.println("sad");
 		System.out.println("kolkata");
+		//welcome
 
 	}
 
